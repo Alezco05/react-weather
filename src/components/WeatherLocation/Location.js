@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 //Destructuring
 //props.city = {city}
 //const {city} = props; 
